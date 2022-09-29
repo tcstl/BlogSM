@@ -1,0 +1,12 @@
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\BlogSM.dll.config
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\BlogSM.dll
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\BlogSM.pdb
+C:\Users\Tuce\Documents\BlogSM\BlogSM\obj\Debug\BlogSM.csproj.CoreCompileInputs.cache
+C:\Users\Tuce\Documents\BlogSM\BlogSM\obj\Debug\BlogSM.dll
+C:\Users\Tuce\Documents\BlogSM\BlogSM\obj\Debug\BlogSM.pdb
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\EntityFramework.dll
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\EntityFramework.xml
+C:\Users\Tuce\Documents\BlogSM\BlogSM\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuce\Documents\BlogSM\BlogSM\obj\Debug\BlogSM.csproj.CopyComplete
+C:\Users\Tuce\Documents\BlogSM\BlogSM\obj\Debug\BlogSM.csprojAssemblyReference.cache
